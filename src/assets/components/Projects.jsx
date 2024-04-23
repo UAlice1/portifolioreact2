@@ -9,7 +9,7 @@ const Projects = () => {
                 <h1 className="sub-title">My Projects</h1>
                 <div className="work-list">
                     <div className="work">
-                        <img src="./src/assets/images/brarchitect.png" alt="Project 1" />
+                        <img src="public/images/brarchitect.png" alt="Project 1" />
                         <div className="layer">
                             <h3>Br Architect</h3>
                             <p>This Br Architect is my first Project I've done when learning HTML and CSS.</p>
@@ -17,7 +17,7 @@ const Projects = () => {
                         </div>
                     </div>
                     <div className="work">
-                        <img src="./src/assets/images/rockgame.png" alt="Project 2" />
+                        <img src="public/images/rockgame.png" alt="Project 2" />
                         <div className="layer">
                             <h3>Paper, Scissors, Rock Game</h3>
                             <p>This Paper, Scissors, Rock Game is my first Project I've done when learning JavaScript and Tailwind CSS.</p>
@@ -25,7 +25,7 @@ const Projects = () => {
                         </div>
                     </div>
                     <div className="work">
-                        <img src="./src/assets/images/agecalcu.png" alt="Project 3" />
+                        <img src="public/images/agecalcu.png" alt="Project 3" />
                         <div className="layer">
                             <h3>Age Calculator</h3>
                             <p>This Age Calculator is my first Project I've done when learning how to make responsive designs in JavaScript.</p>
