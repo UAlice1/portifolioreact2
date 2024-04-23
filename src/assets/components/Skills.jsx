@@ -4,7 +4,7 @@ import React from 'react';
 
 const Skills = () => {
     return (
-        <div id="services">
+        <div id="Skills">
         <div class="container">
             <h1 class="sub-title">My Skills</h1>
             <div class="services-list">

@@ -11,7 +11,7 @@ const About = () => {
 
     return (
         <div>
-            <div id="about"></div>
+            <div id="About"></div>
             <div className="container">
                 <div className="row">
                     <div className="about-col-1">
