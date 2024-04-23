@@ -17,7 +17,7 @@ const Header = () => {
         <i class="fas fa-bars" onclick="openmenu()"></i>
       </nav>
       <div className="header-text ">
-        <img src='./public/images/logo.PNG' className='mt-[-250px] rounded-[20%]'/><br/><br/>
+        <img src='./images/logo.PNG' className='mt-[-250px] rounded-[20%]'/><br/><br/>
                 <p>FrontEnd Developer</p>
                 <h1>Hi, I'm <span>Alice</span><br/> Trix From Rwanda</h1>
             </div>
